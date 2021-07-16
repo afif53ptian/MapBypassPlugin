@@ -15,8 +15,6 @@ namespace ExamplePacketPlugin
             InitializeComponent();
         }
 
-        public JoinHandler Handler { get; } = new JoinHandler();
-
         private void Main_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (e.CloseReason == CloseReason.UserClosing)
