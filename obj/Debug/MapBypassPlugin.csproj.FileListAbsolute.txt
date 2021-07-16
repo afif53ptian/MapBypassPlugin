@@ -1,0 +1,8 @@
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\MapBypassPlugin\bin\Debug\ExamplePacketPlugin.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\MapBypassPlugin\bin\Debug\ExamplePacketPlugin.pdb
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\MapBypassPlugin\obj\Debug\MapBypassPlugin.csprojAssemblyReference.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\MapBypassPlugin\obj\Debug\ExamplePacketPlugin.Main.resources
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\MapBypassPlugin\obj\Debug\MapBypassPlugin.csproj.GenerateResource.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\MapBypassPlugin\obj\Debug\MapBypassPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\MapBypassPlugin\obj\Debug\ExamplePacketPlugin.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\MapBypassPlugin\obj\Debug\ExamplePacketPlugin.pdb
